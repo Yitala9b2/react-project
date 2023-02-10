@@ -1,3 +1,5 @@
 # Приложение для расчета расходов по годам с возможностью добавления нового расхода
 
-Создано с помощью ### 'create react app'
+<div>Ссылка на gh-pages : yitala9b2.github.io/react-project/</div>
+
+<h3> Создано с помощью 'create react app'</h3>
